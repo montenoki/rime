@@ -1,0 +1,7 @@
+# 默认配置请参考：
+# https://github.com/rime/weasel/blob/master/output/data/weasel.yaml
+patch:
+    app_options:
+        firefox.exe:
+            inline_preedit: true # workaround for #946
+    "style/color_scheme": lost_temple
